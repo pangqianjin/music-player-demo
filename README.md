@@ -5,8 +5,11 @@
 - 建议自行增加导入本地文件、播放指定url的歌曲等功能，以及使用css来实现更漂亮的界面
 ### 2.如何运行
 >git clone https://github.com/pangqianjin/music-player-demo.git
+>
 cd进目录之后，执行:
+
 >yarn/yarn install
+>
 >yarn start
 
 ### 3.注意
